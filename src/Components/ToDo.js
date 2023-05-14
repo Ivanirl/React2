@@ -1,6 +1,8 @@
 import { useState } from 'react';
 
 function ToDo(props) {
+  useState()
+  
     function StiffHandler() {
         console.log('Clicked ' + props.text)
     }
