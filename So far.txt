@@ -1,0 +1,6 @@
+So, since node and that chocolatey thing are already installed, 
+npm create-react-app is the first step 
+then you run npm install react-router-dom
+the router that you're installing is another react dependency and will take care of web page routing
+on the single page applications you'll be developing with react.
+if that gets installed succesfully the you can run npm start and begin the creation of your react app
